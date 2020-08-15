@@ -24,4 +24,6 @@
 
 ### issueやpull requestへのリンク
 
-#
+### issueの自動close
+
+fixes #
